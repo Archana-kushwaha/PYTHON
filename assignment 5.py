@@ -1,4 +1,3 @@
-for i in range(11,20):
-    ints = range(11,20)
-for idx, val in enumerate(ints):
-   print(idx, val ,type(idx))
+items=(11,12,13,14,15,16,17,18,19,20)
+for index, item in enumerate(items):
+    print(index, item)
