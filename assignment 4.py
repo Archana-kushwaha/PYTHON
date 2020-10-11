@@ -2,8 +2,7 @@ i=0
 a=100
 n=0
 while i <= a:
-    print('Enter the input')
-    user_input=str(input())
+    user_input=(input('Enter the input:\n'))
     if user_input!='q':
         n=n+int(user_input)
         print('Enter to continue or q to quit')
