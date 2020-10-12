@@ -1,4 +1,4 @@
-input_day = 3
+input_day = int(input("enter the day:")) 
 if input_day == 1:
    print ("MONDAY")
    print (input_day)
