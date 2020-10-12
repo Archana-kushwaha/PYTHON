@@ -1,5 +1,4 @@
 min_length = 6
-flag = True
 name = input('please enter your name:')
 while flag:
     name = input('please enter your name:')
