@@ -1,5 +1,5 @@
 i=0
-a=100
+a=int(input())
 n=0
 while i <= a:
     user_input=(input('Enter the input:\n'))
